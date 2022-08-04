@@ -1,0 +1,462 @@
+activity 1, 3
+add 1, 7
+adopt 1, 16
+afternoons 2, 21
+allow 1, 21
+apart 1, 17
+apply 1, 16
+avoid 3, 18, 21
+avoiding 1, 21
+bar 1, 16
+basis 1, 9
+beat 1, 15
+bed 4, 17, 20, 21
+bedroom 2, 18
+bedtime 3, 17, 20
+benefit 1, 3
+benefits 1, 2
+blog 1, 2
+body 6, 2, 14, 17, 20, 21
+book 2, 11
+books 1, 11
+bowel 1, 7
+brain 1, 2
+brains 1, 11
+breakfast 1, 14
+caffeine 4, 21
+candy 1, 16
+carbs 1, 8
+cause 1, 17
+cell 1, 18
+challenge 1, 4
+chances 1, 9
+choice 1, 16
+choose 1, 17
+circadian 1, 17
+close 1, 17
+co 1, 19
+comes 2, 7, 14
+conclusions 1, 12
+consists 1, 8
+constipation 1, 7
+counting 1, 10
+cranky 1, 19
+daily 3, 4, 9, 13
+day 7, 2, 3, 10, 11, 13, 14, 17
+daylight 1, 17
+days 2, 3
+decision 1, 2
+derive 1, 3
+develop 1, 9
+device 1, 10
+dinner 1, 14
+doesn 1, 21
+doing 1, 10
+drink 4, 2, 13
+drinking 1, 2
+easier 1, 11
+easily 1, 16
+eat 5, 7, 16, 17
+eating 4, 13, 16, 17
+effort 1, 19
+employee 1, 9
+engage 1, 3
+engaging 1, 20
+enjoys 1, 19
+equal 1, 8
+events 1, 12
+exercise 1, 3
+expensive 1, 14
+false 1, 17
+favorite 1, 21
+feeding 1, 17
+feelings 1, 12
+fit 1, 2
+five 2, 11
+focus 1, 14
+food 3, 14, 16
+foods 1, 14
+fruit 4, 7, 13, 16
+fruits 4, 7, 13
+gallon 1, 2
+goal 1, 10
+gone 1, 7
+habit 1, 11
+habits 1, 16
+half 1, 10
+hate 1, 3
+health 7, 2, 9, 12, 16, 17
+healthier 1, 16
+healthy 3, 7, 14
+heart 1, 2
+heel 1, 5
+help 1, 7
+helps 2, 12
+hour 2, 9
+hours 2, 17, 19
+hunger 1, 15
+immediately 1, 17
+impact 1, 2
+indigestion 1, 17
+information 1, 17
+instead 1, 16
+interfere 1, 21
+interrupt 1, 21
+issues 1, 9
+item 1, 16
+items 1, 14
+journal 2, 12
+journaling 1, 12
+junk 1, 16
+keeping 2, 12, 14
+knock 1, 11
+late 2, 21
+lead 1, 17
+learned 1, 13
+library 1, 11
+lights 1, 20
+line 1, 17
+linked 1, 9
+list 1, 13
+listening 1, 20
+lunch 1, 14
+lunchtime 1, 14
+lunges 1, 4
+machine 1, 15
+makes 1, 11
+meal 1, 17
+meals 4, 14, 15
+means 3, 14
+mental 1, 12
+minerals 2, 7, 8
+minute 3, 9, 13
+minutes 4, 3
+moderate 1, 3
+money 2, 14, 15
+morning 2, 13
+movements 1, 7
+multiple 1, 9
+music 1, 20
+natural 1, 7
+nutrients 1, 14
+obvious 1, 17
+own 2, 15
+packs 2, 15
+pages 2, 11
+pangs 1, 15
+participate 1, 3
+people 1, 7
+period 1, 9
+phenomenal 1, 10
+phones 1, 18
+physical 1, 3
+pick 1, 11
+piece 1, 7
+plan 1, 14
+planning 2, 14
+plate 1, 8
+positive 1, 2
+post 1, 2
+productive 1, 21
+proportions 1, 8
+protein 1, 8
+purchase 1, 14
+raises 1, 5
+raw 1, 13
+read 3, 11
+reading 1, 11
+recent 1, 17
+recommends 1, 3
+regulated 1, 17
+remember 1, 3
+replace 1, 16
+research 2, 9, 17
+resist 1, 15
+resolve 1, 12
+rhythm 1, 17
+rid 1, 21
+roughage 1, 7
+routine 1, 20
+routines 1, 20
+rule 2, 9, 16
+running 2, 3
+save 1, 15
+screens 2, 18
+serve 2, 15
+serving 1, 13
+set 1, 9
+sharp 1, 11
+shoot 1, 10
+showering 1, 20
+simple 2, 16, 20
+single 2, 15
+sit 3, 6, 9
+sitting 2, 9
+sleep 7, 18, 19, 21
+smarter 1, 11
+smoothie 2, 13
+snack 3, 15
+soft 1, 20
+source 2, 7, 8
+specific 2, 11, 12
+spend 1, 14
+spot 1, 9
+stay 1, 21
+step 2, 10
+steps 1, 10
+stimulant 1, 21
+supplements 2, 7
+system 1, 7
+tablets 1, 18
+talk 1, 12
+tell 1, 20
+time 5, 9, 11, 17, 20, 21
+timer 1, 9
+tired 1, 19
+tracking 1, 10
+trouble 1, 21
+ups 1, 6
+urge 1, 15
+vegetables 3, 8, 13
+vending 1, 15
+vitamins 2, 7, 8
+walk 4, 3, 9, 13
+walking 2, 3, 9
+wallet 1, 14
+water 3, 2
+week 5, 3, 14
+weight 1, 2
+win 1, 14
+worker 1, 19
+yourself 1, 12
+                                                        .---- yourself 1, 12
+                                                .---- worker 1, 19
+                                               |        `---- win 1, 14
+                                        .---- weight 1, 2
+                                       |       |        .---- week 5, 3, 14
+                                       |        `---- water 3, 2
+                                       |                `---- wallet 1, 14
+                                .---- walking 2, 3, 9
+                               |       |                .---- walk 4, 3, 9, 13
+                               |       |        .---- vitamins 2, 7, 8
+                               |       |       |        `---- vending 1, 15
+                               |        `---- vegetables 3, 8, 13
+                               |               |        .---- urge 1, 15
+                               |                `---- ups 1, 6
+                        .---- trouble 1, 21
+                       |       |                        .---- tracking 1, 10
+                       |       |                .---- tired 1, 19
+                       |       |               |        `---- timer 1, 9
+                       |       |        .---- time 5, 9, 11, 17, 20, 21
+                       |       |       |       |        .---- tell 1, 20
+                       |       |       |        `---- talk 1, 12
+                       |        `---- tablets 1, 18
+                       |               |                .---- system 1, 7
+                       |               |        .---- supplements 2, 7
+                       |               |       |        `---- stimulant 1, 21
+                       |                `---- steps 1, 10
+                       |                       |        .---- step 2, 10
+                       |                        `---- stay 1, 21
+                .---- spot 1, 9
+               |       |                                .---- spend 1, 14
+               |       |                        .---- specific 2, 11, 12
+               |       |                       |        `---- source 2, 7, 8
+               |       |                .---- soft 1, 20
+               |       |               |       |        .---- snack 3, 15
+               |       |               |        `---- smoothie 2, 13
+               |       |               |                `---- smarter 1, 11
+               |       |        .---- sleep 7, 18, 19, 21
+               |       |       |       |                .---- sitting 2, 9
+               |       |       |       |        .---- sit 3, 6, 9
+               |       |       |       |       |        `---- single 2, 15
+               |       |       |        `---- simple 2, 16, 20
+               |       |       |               |        .---- showering 1, 20
+               |       |       |                `---- shoot 1, 10
+               |        `---- sharp 1, 11
+               |               |                        .---- set 1, 9
+               |               |                .---- serving 1, 13
+               |               |               |        `---- serve 2, 15
+               |               |        .---- screens 2, 18
+               |               |       |       |        .---- save 1, 15
+               |               |       |        `---- running 2, 3
+               |                `---- rule 2, 9, 16
+               |                       |                .---- routines 1, 20
+               |                       |        .---- routine 1, 20
+               |                       |       |        `---- roughage 1, 7
+               |                        `---- rid 1, 21
+               |                               |        .---- rhythm 1, 17
+               |                                `---- resolve 1, 12
+        .---- resist 1, 15
+       |       |                                        .---- research 2, 9, 17
+       |       |                                .---- replace 1, 16
+       |       |                               |        `---- remember 1, 3
+       |       |                        .---- regulated 1, 17
+       |       |                       |       |        .---- recommends 1, 3
+       |       |                       |        `---- recent 1, 17
+       |       |                       |                `---- reading 1, 11
+       |       |                .---- read 3, 11
+       |       |               |       |                .---- raw 1, 13
+       |       |               |       |        .---- raises 1, 5
+       |       |               |       |       |        `---- purchase 1, 14
+       |       |               |        `---- protein 1, 8
+       |       |               |               |        .---- proportions 1, 8
+       |       |               |                `---- productive 1, 21
+       |       |        .---- post 1, 2
+       |       |       |       |                        .---- positive 1, 2
+       |       |       |       |                .---- plate 1, 8
+       |       |       |       |               |        `---- planning 2, 14
+       |       |       |       |        .---- plan 1, 14
+       |       |       |       |       |       |        .---- piece 1, 7
+       |       |       |       |       |        `---- pick 1, 11
+       |       |       |        `---- physical 1, 3
+       |       |       |               |                .---- phones 1, 18
+       |       |       |               |        .---- phenomenal 1, 10
+       |       |       |               |       |        `---- period 1, 9
+       |       |       |                `---- people 1, 7
+       |       |       |                       |        .---- participate 1, 3
+       |       |       |                        `---- pangs 1, 15
+       |        `---- pages 2, 11
+       |               |                                .---- packs 2, 15
+       |               |                        .---- own 2, 15
+       |               |                       |        `---- obvious 1, 17
+       |               |                .---- nutrients 1, 14
+       |               |               |       |        .---- natural 1, 7
+       |               |               |        `---- music 1, 20
+       |               |               |                `---- multiple 1, 9
+       |               |        .---- movements 1, 7
+       |               |       |       |                .---- morning 2, 13
+       |               |       |       |        .---- money 2, 14, 15
+       |               |       |       |       |        `---- moderate 1, 3
+       |               |       |        `---- minutes 4, 3
+       |               |       |               |        .---- minute 3, 9, 13
+       |               |       |                `---- minerals 2, 7, 8
+       |                `---- mental 1, 12
+       |                       |                        .---- means 3, 14
+       |                       |                .---- meals 4, 14, 15
+       |                       |               |        `---- meal 1, 17
+       |                       |        .---- makes 1, 11
+       |                       |       |       |        .---- machine 1, 15
+       |                       |       |        `---- lunges 1, 4
+       |                        `---- lunchtime 1, 14
+       |                               |                .---- lunch 1, 14
+       |                               |        .---- listening 1, 20
+       |                               |       |        `---- list 1, 13
+       |                                `---- linked 1, 9
+       |                                       |        .---- line 1, 17
+       |                                        `---- lights 1, 20
+      library 1, 11
+       |                                                .---- learned 1, 13
+       |                                        .---- lead 1, 17
+       |                                       |        `---- late 2, 21
+       |                                .---- knock 1, 11
+       |                               |       |        .---- keeping 2, 12, 14
+       |                               |        `---- junk 1, 16
+       |                               |                `---- journaling 1, 12
+       |                        .---- journal 2, 12
+       |                       |       |                .---- items 1, 14
+       |                       |       |        .---- item 1, 16
+       |                       |       |       |        `---- issues 1, 9
+       |                       |        `---- interrupt 1, 21
+       |                       |               |        .---- interfere 1, 21
+       |                       |                `---- instead 1, 16
+       |                .---- information 1, 17
+       |               |       |                        .---- indigestion 1, 17
+       |               |       |                .---- impact 1, 2
+       |               |       |               |        `---- immediately 1, 17
+       |               |       |        .---- hunger 1, 15
+       |               |       |       |       |        .---- hours 2, 17, 19
+       |               |       |       |        `---- hour 2, 9
+       |               |        `---- helps 2, 12
+       |               |               |                .---- help 1, 7
+       |               |               |        .---- heel 1, 5
+       |               |               |       |        `---- heart 1, 2
+       |               |                `---- healthy 3, 7, 14
+       |               |                       |        .---- healthier 1, 16
+       |               |                        `---- health 7, 2, 9, 12, 16, 17
+       |        .---- hate 1, 3
+       |       |       |                                .---- half 1, 10
+       |       |       |                        .---- habits 1, 16
+       |       |       |                       |        `---- habit 1, 11
+       |       |       |                .---- gone 1, 7
+       |       |       |               |       |        .---- goal 1, 10
+       |       |       |               |        `---- gallon 1, 2
+       |       |       |               |                `---- fruits 4, 7, 13
+       |       |       |        .---- fruit 4, 7, 13, 16
+       |       |       |       |       |                .---- foods 1, 14
+       |       |       |       |       |        .---- food 3, 14, 16
+       |       |       |       |       |       |        `---- focus 1, 14
+       |       |       |       |        `---- five 2, 11
+       |       |       |       |               |        .---- fit 1, 2
+       |       |       |       |                `---- feelings 1, 12
+       |       |        `---- feeding 1, 17
+       |       |               |                        .---- favorite 1, 21
+       |       |               |                .---- false 1, 17
+       |       |               |               |        `---- expensive 1, 14
+       |       |               |        .---- exercise 1, 3
+       |       |               |       |       |        .---- events 1, 12
+       |       |               |       |        `---- equal 1, 8
+       |       |                `---- enjoys 1, 19
+       |       |                       |                .---- engaging 1, 20
+       |       |                       |        .---- engage 1, 3
+       |       |                       |       |        `---- employee 1, 9
+       |       |                        `---- effort 1, 19
+       |       |                               |        .---- eating 4, 13, 16, 17
+       |       |                                `---- eat 5, 7, 16, 17
+        `---- easily 1, 16
+               |                                        .---- easier 1, 11
+               |                                .---- drinking 1, 2
+               |                               |        `---- drink 4, 2, 13
+               |                        .---- doing 1, 10
+               |                       |       |        .---- doesn 1, 21
+               |                       |        `---- dinner 1, 14
+               |                       |                `---- device 1, 10
+               |                .---- develop 1, 9
+               |               |       |                .---- derive 1, 3
+               |               |       |        .---- decision 1, 2
+               |               |       |       |        `---- days 2, 3
+               |               |        `---- daylight 1, 17
+               |               |               |        .---- day 7, 2, 3, 10, 11, 13, 14, 17
+               |               |                `---- daily 3, 4, 9, 13
+               |        .---- cranky 1, 19
+               |       |       |                        .---- counting 1, 10
+               |       |       |                .---- constipation 1, 7
+               |       |       |               |        `---- consists 1, 8
+               |       |       |        .---- conclusions 1, 12
+               |       |       |       |       |        .---- comes 2, 7, 14
+               |       |       |       |        `---- co 1, 19
+               |       |        `---- close 1, 17
+               |       |               |                .---- circadian 1, 17
+               |       |               |        .---- choose 1, 17
+               |       |               |       |        `---- choice 1, 16
+               |       |                `---- chances 1, 9
+               |       |                       |        .---- challenge 1, 4
+               |       |                        `---- cell 1, 18
+                `---- cause 1, 17
+                       |                                .---- carbs 1, 8
+                       |                        .---- candy 1, 16
+                       |                       |        `---- caffeine 4, 21
+                       |                .---- breakfast 1, 14
+                       |               |       |        .---- brains 1, 11
+                       |               |        `---- brain 1, 2
+                       |               |                `---- bowel 1, 7
+                       |        .---- books 1, 11
+                       |       |       |                .---- book 2, 11
+                       |       |       |        .---- body 6, 2, 14, 17, 20, 21
+                       |       |       |       |        `---- blog 1, 2
+                       |       |        `---- benefits 1, 2
+                       |       |               |        .---- benefit 1, 3
+                       |       |                `---- bedtime 3, 17, 20
+                        `---- bedroom 2, 18
+                               |                        .---- bed 4, 17, 20, 21
+                               |                .---- beat 1, 15
+                               |               |        `---- basis 1, 9
+                               |        .---- bar 1, 16
+                               |       |       |        .---- avoiding 1, 21
+                               |       |        `---- avoid 3, 18, 21
+                                `---- apply 1, 16
+                                       |                .---- apart 1, 17
+                                       |        .---- allow 1, 21
+                                       |       |        `---- afternoons 2, 21
+                                        `---- adopt 1, 16
+                                               |        .---- add 1, 7
+                                                `---- activity 1, 3
